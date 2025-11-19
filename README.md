@@ -70,22 +70,29 @@ On Windows you can use `python` or `py`, depending on your setup.
 ##################################################
 
 General IoC Counts
-Total IoCs: 500 Total IoC Types: 3 Total IoC Values: 119 Total IoC Actors: 9 ##################################################
-
+Total IoCs: 500
+Total IoC Types: 3
+Total IoC Values: 119
+Total IoC Actors: 9
 ##################################################
 
 IoC Type Breakdown
-IoC Type (ip): 169 IoC Type (url): 169 IoC Type (domain): 162 ...
-
+IoC Type (ip): 169
+IoC Type (url): 169
+IoC Type (domain): 162 ...
 ##################################################
 
 IoC Value Breakdown
-IoC Value (1.1.1.1): 169 IoC Value (example.com): 169 IoC Value (example.org): 162 ...
-
+IoC Value (1.1.1.1): 169
+IoC Value (example.com): 169
+IoC Value (example.org): 162 ...
 ##################################################
 
 IoC Actor Breakdown
-IoC Actor (actor1): 169 IoC Actor (actor2): 169 IoC Actor (actor3): 162 ...
+IoC Actor (actor1): 169
+IoC Actor (actor2): 169
+IoC Actor (actor3): 162 ...
+##################################################
 
 ## Important Notes
 
